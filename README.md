@@ -1,3 +1,2 @@
 # odin-recipes
 My current project is to create a interactive webpage on recipes. Once I complete this project I am expecting myself to be able to create a webpage using html, adding images, interactive links, and editing text contents to my liking.
-I am determined to create a beautiful interactive webpage. I will also learn and implement materials I have learned outside of the odin project and place that onto my html codes. 
