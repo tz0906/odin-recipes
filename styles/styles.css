@@ -1,0 +1,45 @@
+/*styles.css*/
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:antiquewhite;
+}
+
+h1{
+    font-weight: 350;
+    color:rgb(92, 58, 33);
+    text-align: center;
+    font-size:60px;
+}
+/* not working list recipes, debug*/
+    ul.list-recipes{
+    text-align: center;
+
+    }
+/* not working button style debug*/
+body.button{
+    text-align:right
+}
+
+.subtitle{
+    text-align: center;
+    color:rgb(92, 58, 33);
+    font-size:25px;
+    font-weight: 200;
+}
+
+.read{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.p .source{
+    text-align: center;
+}
+
+/* To center images, use the provided code below*/
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
